@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @iTesla2007
+- 👋 Hi, I’m @iTesla
 - 👀 I’m interested in Geometry Dash
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning JavaScript
